@@ -1,0 +1,43 @@
+.fill
+{
+    background-color: greenyellow;
+}
+.silos{
+    border: 1px solid black;
+    height: 200px;
+    width: 70px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.sviSilosi
+{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.imeisilosi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+.fabrika
+{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid greenyellow;
+
+}
+.ceoSilos{
+    display: flex;
+    flex-direction: column;
+}
+.forma
+{
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+}
